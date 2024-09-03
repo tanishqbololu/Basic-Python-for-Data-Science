@@ -4,8 +4,7 @@ Welcome to the Basic Python for Data Science repository. This repository is desi
 This repository includes Python scripts for the following topics:
 
 1. Basic Codes:
-   
-  Contains simple Python scripts demonstrating basic syntax and functionality.
+      Contains simple Python scripts demonstrating basic syntax and functionality.
 
 3. Lists:
   Examples and exercises related to Python lists, including operations, methods, and use cases.
