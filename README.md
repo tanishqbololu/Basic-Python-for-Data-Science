@@ -3,29 +3,30 @@ Welcome to the Basic Python for Data Science repository. This repository is desi
 
 This repository includes Python scripts for the following topics:
 
-1. Basic Codes: 
+1. Basic Codes:
+   
   Contains simple Python scripts demonstrating basic syntax and functionality.
 
-2. Lists:
+3. Lists:
   Examples and exercises related to Python lists, including operations, methods, and use cases.
 
-3. Tuples:
+4. Tuples:
   Scripts that cover tuple creation, manipulation, and usage in Python.
 
-4. Sets:
+5. Sets:
   Python set operations, including how to create, modify, and perform set operations.
 
-5. Dictionaries:
+6. Dictionaries:
   Examples demonstrating the use of Python dictionaries, including key-value pairs and dictionary methods.
 
-6. Operators:
+7. Operators:
   Scripts showcasing various operators in Python, such as arithmetic, comparison, and logical operators.
 
-7. Expressions:
+8. Expressions:
   Demonstrations of different types of expressions in Python, including arithmetic and logical expressions.
 
-8. Conditional Statements:
+9. Conditional Statements:
   Examples of using if, elif, and else statements to make decisions in Python code.
 
-9. Loops:
+10. Loops:
   Scripts that demonstrate the use of for and while loops to perform repetitive tasks.
